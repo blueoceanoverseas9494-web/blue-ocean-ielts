@@ -1,0 +1,37 @@
+BLUE OCEAN IELTS ACADEMY - FREE END TO END SETUP
+
+PART 1: APP JEVI WEBSITE / PWA
+1. Aa folder GitHub par upload karo.
+2. Vercel.com par free account banao.
+3. Add New Project -> GitHub repo select karo.
+4. Deploy click karo.
+5. Website live link mali jashe.
+6. Student mobile ma link open kare -> browser menu -> Add to Home Screen.
+7. Aa app jevu install thai jashe.
+
+PART 2: GOOGLE FREE LEARNING SYSTEM
+1. Google Classroom ma class banao: Blue Ocean IELTS Academy.
+2. Topics banao:
+   - Listening
+   - Reading
+   - Writing
+   - Speaking
+   - Grammar
+   - Vocabulary
+   - Mock Tests
+3. Google Drive ma same folders banao.
+4. YouTube par IELTS videos Unlisted upload karo.
+5. Google Forms ma mock tests banao.
+6. App/PWA na PDF Notes ane Mock Test buttons ma tamara Drive/Form links add karva.
+7. WhatsApp Business auto reply ma website/app link mukvo.
+
+PART 3: AI CONTENT FREE FLOW
+1. ChatGPT thi lecture script banao.
+2. Canva Free thi slides banao.
+3. CapCut free text-to-speech thi voice add karo.
+4. YouTube Unlisted upload karo.
+5. Classroom + App ma link add karo.
+
+IMPORTANT:
+Aa starter demo che. Real student database/login mate Firebase add karvu pade.
+0 cost ma Google Classroom login best free option che.
